@@ -6,4 +6,4 @@
  
   3 - [Pour la présentation et la compréhension des fichiers YAML](https://fr.wikipedia.org/wiki/YAML)
  
-  4 - [Pour nous aider à résoudre les bugs](ChatGPT)
+  4 - [Chat GPT : Pour nous aider à résoudre les bugs](chat.openai.com)
