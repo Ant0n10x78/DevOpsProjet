@@ -11,4 +11,7 @@
 
  ### 2 - Répartitition du travail dans le groupe
  
-      Pour ce projet, nous avons été deux à travailler : ``
+      Pour ce projet, nous avons été deux à travailler : Antonio GERNAC-ALEICO et Arsene Romaric ONAMBELE
+      
+      - Antonio s'est chargé de la mise en place de l'environnement de travail et de l'installation des différents outils dans sa machine Ubuntu.
+      - Arsene s'est chargé des différentes recherches concernant Kubernetes
