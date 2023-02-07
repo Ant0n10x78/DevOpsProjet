@@ -10,3 +10,4 @@ Par la suite il suffit de lancer les commandes suivantes:
 
 -kubectl apply -f mysqlConfig.yaml
 
+mysqlConfig.yaml est le fichier de configuration qui va nous permettre de déployer les deployments mysql/apache.
