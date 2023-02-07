@@ -1,6 +1,6 @@
 # DevOpsProjet
 
-Projet réaliser par : Antonio Gernac-Aleixo et Arsene Onambele
+### Projet réalisé par : Antonio Gernac-Aleixo et Arsene Onambele
 
 Afin de réaliser correctement le projet il suffit de lancer le script bash install.sh.
 
